@@ -1,3 +1,3 @@
 # jenaschenbrenner.github.io
 
-Thi sis  a website for Jen Aschenbrenner 
+Thi is  a website for Jen Aschenbrenner 
